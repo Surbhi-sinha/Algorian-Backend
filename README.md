@@ -82,10 +82,6 @@
   - A compact, URL-safe means of representing claims to be transferred between two parties.  
   - Used for securely transmitting information for authentication and authorization purposes.  
 
-- **WebSockets:**  
-  - Enables full-duplex communication channels over a single TCP connection.  
-  - Facilitates real-time features such as live collaboration and instant notifications.  
-
 - **Nodemon:**  
   - A development utility that automatically restarts the server upon detecting file changes.  
   - Enhances development workflow efficiency.  
